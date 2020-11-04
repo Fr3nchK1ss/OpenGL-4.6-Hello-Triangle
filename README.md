@@ -19,7 +19,7 @@ The directories include/glad, include/KHR, and the files glad.h, glad.c and khrp
 
 ## Greetings
 
-I copied/modified code from [Anton Gerdelan](https://antongerdelan.net/opengl/index.html) and [Learnopengl](https://learnopengl.com/Getting-started/Shaders). See Licence.
+I copied/modified code from [Anton Gerdelan](https://antongerdelan.net/opengl/index.html) and [Joey De Vries / Learnopengl](https://learnopengl.com/Getting-started/Shaders). See Licence file for more info. Also check [Fendevel repos about modern OpenGL](https://github.com/fendevel). 
 
 
 
